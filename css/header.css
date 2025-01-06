@@ -1,0 +1,43 @@
+header {
+  background: #1391ceb2;
+  padding: 41px;
+}
+
+.nav-hero {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-link {
+  gap: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  color: white;
+  transition: all 0.5s;
+}
+
+.downloads-btn {
+  border: none;
+  border-radius: 15px;
+  padding: 9px 18px;
+  gap: 32px;
+}
+
+.downloads-btn a {
+  text-decoration: none;
+  padding-bottom: 98px;
+}
+
+#menu {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: none;
+}

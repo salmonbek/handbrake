@@ -1,0 +1,38 @@
+.news-section {
+  background-color: #e2f0f7b2;
+}
+
+.news-section-about {
+  display: flex;
+  justify-content: space-between;
+  gap: 112px;
+}
+
+.news-section-left {
+  margin-bottom: 128px;
+}
+
+.news-section-right h5 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.49px;
+  letter-spacing: 0.01em;
+  color: #25468a;
+  margin-bottom: 15px;
+}
+
+.news-section-right h3 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 42.98px;
+  letter-spacing: 0.01em;
+  color: #1391ce;
+}
+
+.news-section-right p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.17px;
+  letter-spacing: 0.02em;
+  color: #4f4f4f;
+}

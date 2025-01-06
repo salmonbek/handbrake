@@ -1,0 +1,25 @@
+.github {
+  background-color: #e2f0f7b2;
+}
+
+.github-section {
+  display: flex;
+  padding-bottom: 64px;
+  padding-top: 176px;
+  gap: 20px;
+}
+
+.github-section p {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 25.78px;
+  letter-spacing: 0.04em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.github-section-about {
+  background: #1391ce;
+  border-radius: 10px;
+  padding: 68px 34px;
+}
