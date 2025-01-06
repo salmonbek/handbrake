@@ -1,0 +1,9 @@
+@media (max-width: 950px) {
+  .support-content {
+    flex-wrap: wrap;
+  }
+
+  .support-section-right {
+    text-align: center;
+  }
+}
